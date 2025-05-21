@@ -1,6 +1,6 @@
 # ff14_task
 
-A new Flutter project.
+A new Flutter project. This is a daily and weekly to-do list app for FF14.
 
 ## Getting Started
 
